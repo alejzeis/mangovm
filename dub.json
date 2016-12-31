@@ -1,0 +1,9 @@
+{
+	"name": "mangovm",
+	"authors": [
+		"jython234"
+	],
+	"description": "A random VM written in D.",
+	"copyright": "Copyright (C) 2016, jython234",
+	"license": "BSD 2-clause"
+}
